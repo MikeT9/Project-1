@@ -7,9 +7,9 @@ A Comparison of Oil Stocks vs. Commodity Price
 ## Team Members
 
 * Lydia Jones
-* Michael Thomas
-* Freddy Rangel
 * Tyler Nguyen
+* Freddy Rangel
+* Michael Thomas
 
 ## Project Proposal
 
@@ -19,22 +19,18 @@ Our project is to uncover patterns in crude oil prices and oil company stock pri
 
 1. To what extent is oil price a proxy for the stock price for an oil company?
 
-2. To what extent are spikes in volume exchanges indicative of stock price change?
+2. What connection is there between the volumes activity and stock price?
 
 3. Can a ratio of stock price to oil price provide valuable insight? Perhaps opportunities to buy/sell?
 
-4. Is there a max price you would buy that would seem to ensure long term (5-10 year) gains?
+4. How does oil price compare with gold? How does oil do relative to inflation indicators? 
 
-5. How does oil price compare with gold? How does oil do relative to inflation indicators? 
-
-6. How does oil price or a typical stock ticker compare with the S&P 500? Are there seasonal effects to consider?
-
-7. What world events shaped these graphs? Is investing in oil just waiting around for global crises?
+5. How does oil price or a typical stock ticker compare with the S&P 500? 
 
 ## Data References
 
-### Library yfinance
-Use of publicly available library to to download all the financial data of a Company since its listing in the stock market.
+### yfinance wrapper
+Use of publicly available library to to download all the financial data of a company since its listing in the stock market.
 
 ## Rough Breakdown of Tasks
 
