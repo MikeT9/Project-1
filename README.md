@@ -4,6 +4,8 @@
 
 A Comparison of Oil Stocks vs. Commodity Price
 
+![result](images/result.png)
+
 ## Team Members
 
 * Lydia Jones
